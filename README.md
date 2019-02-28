@@ -1,1 +1,1 @@
-https://github.com/Nesteklo/rsschool-2019Q1-cv
+https://nesteklo.github.io/rsschool-2019Q1-cv/cv
