@@ -1,6 +1,6 @@
-#Summary
+Summary
 
-##Junior Developer
+Junior Developer
 
 1. Ilya Kiryliuk.
 2. [link to vk](https://vk.com/b0tt0m)
@@ -8,7 +8,7 @@
    ilya.ey@mail.ru
 3. I want to earn by programming, because in our country there are few good alternatives for earning. 
 I'am also have CM in chess, so I think the programming logic will be subservient to me. Ready to study.
-4. Ñ++. ABAP and SQL basic knowledge.
+4. C++. ABAP and SQL basic knowledge.
 5. love-triangle
 
    ```javascript
