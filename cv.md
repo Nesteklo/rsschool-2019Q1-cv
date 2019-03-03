@@ -27,4 +27,4 @@ I'am also have CM in chess, so I think the programming logic will be subservient
    ```
 
 6. BSU, Mathematics and Mechanics(2019 graduation year). SAP courses in IBA(ABAP programming language).
-7. A2 (Elementary english). Studied english 11 years in school and 2 year in university. 
+7. A2 (Elementary english). Studied english 11 years in school and 2 years in university. 
